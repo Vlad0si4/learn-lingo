@@ -30,7 +30,7 @@ provides a variety of teachers to choose from based on language, expertise level
 
 ## 🚀 Getting Started
 
-1. Clone the repository: `https://github.com/unixeven/learn-lingo`
+1. Clone the repository: `https://github.com/Vlad0si4/learn-lingo`
 2. Navigate to the project directory: `cd learn-lingo`
 3. Install dependencies: `npm install`
 4. Start the project: `npm run dev`
